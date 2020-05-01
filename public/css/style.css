@@ -1,0 +1,43 @@
+html { height:100%; }
+
+body{
+    background-color: #74b9ff;
+}
+
+#map{
+    position: static !important;
+}
+
+
+.ui.main.container{
+    height: 100%;
+    width: 100%;
+    margin: 0!important;
+    padding: 0!important;;
+}
+
+.ui.button{
+    margin-top: 10px;
+}
+#title{
+    text-align: center;
+    margin: 30px;
+    font-size: 60px;
+}
+
+.white{
+    color: white!important;
+}
+
+
+p{
+    text-align: justify;
+}
+
+p span{
+    font-weight: bold;
+}
+
+.segment:last-child{
+    margin-bottom: 40px !important;
+}
